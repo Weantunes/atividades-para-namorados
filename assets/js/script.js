@@ -16,6 +16,17 @@ const lista = [
     'Jogos de tabuleiro ou de baralho',
     'Troca de massagem',
     'Acampar no quintal',
+    'Dormir juntos',
+    'Noite do Fondue',
+    'Fazer um passeio de barco ou canoa em um lago ou rio',
+    'Ter um momento de meditação ou yoga em casal',
+    'Momento karaokê',
+    'Montar um quebra-cabeça em equipe',
+    'Noite do Fondue',
+    "skin Care",
+    "Fazer alguma comida juntos",
+    "Ir pra algum lugar histórico de alguma cidade",
+    "Ter um dia de comer só besteira"
 ];
 
 function ResultadoAleatorio() {
